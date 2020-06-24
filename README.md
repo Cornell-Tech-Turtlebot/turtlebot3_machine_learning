@@ -1,3 +1,20 @@
+# TurtleBot3 Machine Learning
+
+Modified from https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning
+
+# Installation
+
+Install the required packages by following the instructions at https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/#ros-1-machine-learning
+
+# Run
+
+To train robot in a stage:
+
+1. Run ```roslaunch turtlebot3_gazebo turtlebot3_stage_<stage number>.launch```
+2. Run ```roslaunch turtlebot3_dqn turtlebot3_dqn_stage_<stage number>.launch``` on a separate terminal.
+3. Visualize the progress and graphs using the command ```roslaunch turtlebot3_dqn result_graph.launch```.
+
+
 # TurtleBot3
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
