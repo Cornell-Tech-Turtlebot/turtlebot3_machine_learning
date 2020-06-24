@@ -1,10 +1,10 @@
 # TurtleBot3 Machine Learning
 
-Modified from https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning
+Modified from https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning.
 
 # Installation
 
-Install the required packages by following the instructions at https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/#ros-1-machine-learning
+Install the required packages by following the instructions at https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/#ros-1-machine-learning.
 
 # Run
 
